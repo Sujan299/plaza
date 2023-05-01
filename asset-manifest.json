@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/plaza/static/css/main.9ff9038d.css",
+    "main.js": "/plaza/static/js/main.afce7459.js",
+    "static/media/pizza.png": "/plaza/static/media/pizza.56874604e961a22ccd31.png",
+    "static/media/biryani.jpg": "/plaza/static/media/biryani.6895772bb9d498d33ec9.jpg",
+    "static/media/momo.jpg": "/plaza/static/media/momo.fda05279a6376954a568.jpg",
+    "index.html": "/plaza/index.html",
+    "main.9ff9038d.css.map": "/plaza/static/css/main.9ff9038d.css.map",
+    "main.afce7459.js.map": "/plaza/static/js/main.afce7459.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ff9038d.css",
+    "static/js/main.afce7459.js"
+  ]
+}
