@@ -1,0 +1,38 @@
+.service{
+    text-align: center;
+    font-size: 110%;
+    font-weight: bolder;
+    padding-top: 2rem;
+    color: blue;
+  }
+  .products{
+    margin: 1.2rem;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .card{
+    width: 18rem;
+    margin: 2rem;
+  }
+  .service{
+    width: 100%;
+    margin: auto;
+  }
+  .card img{
+    display: block;
+    width: 18rem;
+  }
+  .products .service{
+    width: 100%;
+    margin:1.2rem auto;
+    text-transform: uppercase;
+  }
+  button{
+    background-color: #666;
+    border: none;
+    padding: 14px 16px;
+    border-radius: 5px;
+    font-size: 110%;
+    font-weight: bolder;
+    color: white;
+  }

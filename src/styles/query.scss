@@ -1,0 +1,55 @@
+@media screen and (max-width: 624px){
+    nav{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .option{
+      display: block;
+      padding: 0;
+      margin: 0;
+    }
+    nav .topNav{
+      display: flex;
+      width: 100%;
+      justify-content: space-between;
+      padding: 0 1.2rem 0 0 ;
+  
+    }
+    nav ul{
+      display: flex;
+      height: 30vh;
+      flex-direction: column;
+      justify-content:center ;
+      align-items : center;
+      transition: .5s;
+    }
+    nav ul a{
+      margin: 0.7rem;
+      transition: .5s;
+    }
+    .hiddenBtn{
+      display: none;
+    }
+  }
+  @media screen and (max-width: 1094px ){
+    .card{
+      display: flex;
+      flex-basis: 25%;
+      justify-content: center;
+    }
+  }
+  @media screen and (max-width: 760px ){
+    .card{
+      display: flex;
+      flex-basis: 100%;
+      justify-content: center;
+    }
+  }
+  @media screen and (max-width: 400px){
+    .card{
+      margin: 0.5rem;
+      width: 14rem;
+    }
+  }
